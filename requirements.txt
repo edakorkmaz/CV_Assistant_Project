@@ -1,0 +1,5 @@
+cohere
+faiss-cpu
+numpy
+pdfplumber
+python-dotenv
